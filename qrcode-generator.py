@@ -54,6 +54,6 @@ def qrcode_generator(url, logo_path, qr_output_path, logo_size=0.4):
 # Exemplo de uso da função
 qrcode_generator(
     url="https://pedrocpaes.github.io/portfolio/",
-    logo_path="./assets/logotipo-peu2.png",
-    qr_output_path="qrcode-peu"
+    logo_path="{PATH_HERE}",
+    qr_output_path="{NAME_HERE}"
 )
