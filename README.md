@@ -18,4 +18,4 @@ Este projeto é um gerador de QR codes personalizados que permite adicionar um l
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/thematrixbunny/qrcode-generator.git
+   git clone https://github.com/lucasbemlucas/qrcode-generator.git
